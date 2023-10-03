@@ -28,6 +28,10 @@ To use the mod, please follow this steps:
 
 1. **Join the server** and enjoy your plugin!
 
+## Help
+
+**If you need help, message me on discord, link in the main page of my account ;)**
+
 ## Authors
 
 - [@groggo](https://github.com/GettingTren)
