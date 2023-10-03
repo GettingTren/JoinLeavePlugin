@@ -30,7 +30,7 @@ To use the mod, please follow this steps:
 
 ## Help
 
-**If you need help, message me on discord, link in the main page of my account ;)**
+**If you need help, message me on discord, link in the main page of [my account](https://github.com/GettingTren) ;)**
 
 ## Authors
 
