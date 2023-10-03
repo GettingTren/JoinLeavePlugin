@@ -19,7 +19,6 @@ public class JoinLeaveListener implements Listener {
         }else{
             e.setJoinMessage(ChatColor.RED + "" + ChatColor.BOLD + player.getDisplayName() + ChatColor.YELLOW + " joined for the first time!! Welcome!");
         }
-
     }
 
     @EventHandler
