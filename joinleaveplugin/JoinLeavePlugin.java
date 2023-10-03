@@ -6,7 +6,6 @@ public final class JoinLeavePlugin extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        // Plugins Startup Logic
 
         getServer().getPluginManager().registerEvents(new JoinLeaveListener(), this);
 
